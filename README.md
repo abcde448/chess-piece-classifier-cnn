@@ -9,6 +9,7 @@ Format: Images organized by folder per class (e.g., train/black_king/, train/whi
 CSV: A chess_dataset_fixed.csv file maps image paths to labels.
 
 📌 Project Workflow
+
 1.Data Preprocessing
 
 Load and preprocess image data from folders.
