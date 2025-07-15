@@ -58,11 +58,7 @@ OpenCV
 scikit-learn
 seaborn, matplotlib, pandas
 
-📌 How to Run
-Upload your dataset to Google Drive.
-
-Load and unzip using:
-
-
-!unzip -o "/content/drive/MyDrive/chess_pieces.zip" -d "/content/chess_images"
-Load the CSV and run the notebook cells step-by-step.
+📬 Contact - 
+Md. Rabbi Hasan |
+Data Scientist
+📧arafatrabbi668@gmail.com | LinkedIn https://www.linkedin.com/in/md-rabbi-hasan-3249652b1
